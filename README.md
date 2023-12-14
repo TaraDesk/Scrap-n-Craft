@@ -8,7 +8,7 @@ Our Capstone Group consist of :
 * Cloud Computing - Diamondy Alif Muhammad Santoso
 * Cloud Computing - Nathania Marsaulina Larasati
 * Mobile Development - Kiki Lidya Koswara
-* Mobile Development - 
+* Mobile Development - Yahya Dian Prastyo
 
 ---
 Scrap'n'Craft is an application...
